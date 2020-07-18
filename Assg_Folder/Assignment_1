@@ -1,1 +1,32 @@
+ASSIGNMENT 1
 
+1) What is your understanding of blockchain?
+ans: Blockchain can be defined as a digital ledger which has certain qualities that makes it non vulnerable and unaccountable to third party sources
+     which keeps a permanent record of all the transactions that have taken place in a secure, chronological, and immutable way.
+     A blockchain is a chain of blocks which contain information. Each block records all of the recent transactions,
+     and once completed goes into the blockchain as a permanent database
+     
+2) What are the core problems blockchain is trying to solve?
+ans: The actual core problems that blockchain is capable of solving are the current issues of the internet.
+     It reinforces itself to the next internet2.0 ,thus compensating the issues of unverifiable , tamperproof data.
+     It also helps in solving the issues of “Decentralisation and Authentication” of Data.
+
+3) What are the few features that blockchain give you?
+ans: 1. Authenticity
+     2.Security
+     3.No requirement of third party sources
+     4.Tamperproof
+     5.Verifiable
+     6.Immutable
+     7.Unchangable
+
+4) What does a block contain?
+ans: 1.Block number 
+     2.Records.
+     3. Previous block signature
+     4.Mining Key   
+5) How is the verifiability of Blockchain has been attained ?
+ans: Block 1:
+     inital_fingerprint(zero) + Data = Fingerkey 1
+     Block 2:
+     Fingerkey 1 + New Data = Fingerkey 2 
